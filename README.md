@@ -15,3 +15,6 @@ Open source spacial programming workshop
  - 360度撮影
  - 180度深度撮影
  - タイムライン(人物)
+ - レポートドキュメント用の撮影
+ - VR/ARに展開できるデータ作り
+ 
